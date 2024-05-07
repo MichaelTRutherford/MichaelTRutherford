@@ -1,8 +1,10 @@
 ### Hi there I'm Michael 👋
 
-I have been developing for years. After I got my Masters in Information Technology I was using VB.Net professionally. This is when I learned SQL
+I have been developing for years, learning and forgetting many languages. 
 
-I have since learned C# and used it professionally.
+After I got my Masters Degree in Information Technology, I started using VB.Net professionally. This is when I learned SQL and SQL programming.
+
+I have since learned C# and have used it professionally, working in WinForms.
 
 I have learned ASP.Net Core MVC and have created several projects in it.
 

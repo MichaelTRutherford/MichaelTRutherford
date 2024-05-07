@@ -12,7 +12,7 @@ I have created a Task List in React that stores the tasks in local storage: [htt
 
 I have created a small E-commerce site that uses an API to get and store information: [https://codebook.michaelsworld.net/]
 
-I am currently learning Angular.
+I have been focusing on React and decided to learn Angular, which I am working through.
 <!--
 **MichaelTRutherford/MichaelTRutherford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
